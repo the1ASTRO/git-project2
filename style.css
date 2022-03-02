@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(97, 97, 97);
+}
+.tasbeh {
+  width: 150px;
+  height: 175px;
+  background-color: coral;
+  border: 1px solid chocolate;
+  position: absolute;
+  top: 37%;
+  left: 44%;
+  border-radius: 19%;
+}
+.ekran {  
+  width: 50%;
+  position: absolute;
+  top: 10%;
+  left: 21%;
+  height: 30px;
+  caret-color: white;
+  border-radius: 9%;
+  border: 1px solid floralwhite;
+  text-align: center;
+  font-size: 30px;
+}
+.tugma {
+    position: absolute;
+    top: 42%;
+    left: 35%;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: gray;
+}
+.nolga {
+  position: absolute;
+  top: 74%;
+  left: 40%;
+  width: 29px;
+  height: 29px;
+  border-radius: 50%;
+  background-color: burlywood;
+}
